@@ -1,0 +1,50 @@
+.carousel-indicators
+{
+	display: none !important;
+}
+.nomargin
+{
+	margin: 0 !important;
+}
+.white-back
+{
+	background:#fff !important;
+}
+ul.middle-fixed
+{
+	position: relative;
+    display: inline-block;
+    margin-top: 36px;
+    float: right;
+}
+ul.middle-fixed li
+{
+	display: inline-block;
+}
+ul.middle-fixed li a
+{
+	background: #fff !important;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: #373737;
+    font-weight: bold;
+}
+.middler
+{
+	top: 50%;
+    transform: translateY(-50%);
+    padding: 0 10px;
+}
+li.middler
+{
+	padding: 0 10px;
+}
+.in-block
+{
+	display: inline-block;
+}
+#fp-nav
+{
+	display: none;
+}
